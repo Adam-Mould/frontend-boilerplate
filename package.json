@@ -33,7 +33,6 @@
     "gulp-watch": "^4.3.10",
     "jquery": "^2.2.4",
     "jshint": "^2.9.4",
-    "node-bourbon": "^4.2.8",
-    "webpack": "^1.13.3"
+    "node-bourbon": "^4.2.8"
   }
 }
